@@ -1,3 +1,3 @@
 # new-demo
-New Git Repository
+New Git Repository.
 Author- Zaeem
